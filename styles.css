@@ -378,7 +378,7 @@ footer{
 }
 /* hero section */
 .hero{
-    background: var(--intro-email-bg) url(images/bg-curvy-deskto) center no-repeat;
+    background: var(--intro-email-bg) url(images/bg-curvy-desktop.svg) center no-repeat;
     background-size: 100% 130px;
     position: relative;
 
