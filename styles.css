@@ -285,10 +285,10 @@ footer{
     .nav{
         padding: 24px 20px;
     }
-    .nav-items :not(:last-child){
+    .nav-lists :not(:last-child){
         padding-right: 23px;
     }
-    .brand-logo img{
+    .brandlogo img{
         width: 82px;
         height: 24px;
     }
