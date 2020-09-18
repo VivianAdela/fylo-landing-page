@@ -274,8 +274,11 @@ footer{
     font-size: 30px
 }
 /*mobile 375px */
-@media(max-width:375px){
+@media (max-width:375px){
     body{
+        font-size: 10px;
+    }
+    h2{
         font-size: 25px;
     }
     /* nav */
@@ -296,7 +299,7 @@ footer{
     }
     .hero h2{
         width: 302px;
-        height: 23px;
+        margin: 23px;
     }
     .hero p{
         width: 292px;
@@ -375,7 +378,7 @@ footer{
 }
 /* hero section */
 .hero{
-    background: var(--intro-email-bg) url(images/bg-curvy-desktop.svg) center no-repeat;
+    background: var(--intro-email-bg) url(images/bg-curvy-deskto) center no-repeat;
     background-size: 100% 130px;
     position: relative;
 
